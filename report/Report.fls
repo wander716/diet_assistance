@@ -1,8 +1,8 @@
-PWD c:/Users/32491/Desktop/人工智能短学期/project/report
+PWD c:/Users/32491/Desktop/project/report
 INPUT d:/texlive/2025/texmf.cnf
 INPUT d:/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT d:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/32491/Desktop/人工智能短学期/project/report/Report.tex
+INPUT c:/Users/32491/Desktop/project/report/Report.tex
 OUTPUT Report.log
 INPUT d:/texlive/2025/texmf-dist/tex/latex/ctex/ctexart.cls
 INPUT d:/texlive/2025/texmf-dist/tex/latex/ctex/ctexart.cls
