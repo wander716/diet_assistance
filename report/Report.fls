@@ -351,6 +351,8 @@ INPUT ./0-1.png
 INPUT ./0-1.png
 INPUT ./0-1.png
 INPUT ./0-1.png
+INPUT d:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong94.tfm
+INPUT d:/texlive/2025/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6f.tfm
 INPUT ./0-2.png
 INPUT ./0-2.png
 INPUT ./0-2.png
@@ -420,6 +422,8 @@ INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
 INPUT c:/Windows/Fonts/simhei.ttf
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf
 INPUT c:/Windows/Fonts/simkai.ttf

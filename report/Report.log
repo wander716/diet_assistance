@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.18)  20 SEP 2025 11:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.6.18)  21 SEP 2025 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -614,85 +614,88 @@ Package pdftex.def Info: 0.png  used on input line 122.
 <0-1.png, id=312, 925.95938pt x 179.16937pt>
 File: 0-1.png Graphic file (type png)
 <use 0-1.png>
-Package pdftex.def Info: 0-1.png  used on input line 138.
+Package pdftex.def Info: 0-1.png  used on input line 140.
 (pdftex.def)             Requested size: 359.64394pt x 69.5887pt.
-<0-2.png, id=314, 978.65625pt x 167.87718pt>
-File: 0-2.png Graphic file (type png)
-<use 0-2.png>
-Package pdftex.def Info: 0-2.png  used on input line 146.
-(pdftex.def)             Requested size: 359.64394pt x 61.69348pt.
 
 
 [3 <./0.png> <./0-1.png>]
-<0-3.png, id=323, 1139.00531pt x 134.75343pt>
+<0-2.png, id=324, 978.65625pt x 167.87718pt>
+File: 0-2.png Graphic file (type png)
+<use 0-2.png>
+Package pdftex.def Info: 0-2.png  used on input line 158.
+(pdftex.def)             Requested size: 359.64394pt x 61.69348pt.
+<0-3.png, id=325, 1139.00531pt x 134.75343pt>
 File: 0-3.png Graphic file (type png)
 <use 0-3.png>
-Package pdftex.def Info: 0-3.png  used on input line 154.
+Package pdftex.def Info: 0-3.png  used on input line 169.
 (pdftex.def)             Requested size: 359.64394pt x 42.5483pt.
-<5-1.png, id=325, 459.21562pt x 489.32813pt>
+
+
+[4 <./0-2.png> <./0-3.png>]
+<5-1.png, id=338, 459.21562pt x 489.32813pt>
 File: 5-1.png Graphic file (type png)
 <use 5-1.png>
-Package pdftex.def Info: 5-1.png  used on input line 165.
+Package pdftex.def Info: 5-1.png  used on input line 193.
 (pdftex.def)             Requested size: 247.25801pt x 184.94609pt.
 
-Overfull \hbox (1.2969pt too wide) in paragraph at lines 162--168
+Overfull \hbox (1.2969pt too wide) in paragraph at lines 190--196
 []\C70/zhsong/m/n/10.53937/4e ã \C70/zhsong/m/n/10.53937/78 ^^A \C70/zhsong/bx/n/10.53937/8b æ \C70/zhsong/m/n/10.53937/60 Å \C70/zhsong/m/n/10.53937/53 ï \C70/zhsong/m/n/10.53937/89 Á \C70/zhsong/m/n/10.53937/4e Ž \C70/zhsong/bx/n/10.53937/62 ^^Q \C70/zhsong/m/n/10.53937/76 „\OT1/cmr/m/n/10.53937 gitee\C70/zhsong/m/n/10.53937/4e Ó \C70/zhsong/m/n/10.53937/5e “|\C70/zhsong/m/n/10.53937/ff ^^Z| []$\OT1/cmtt/m/n/10.53937 https : / / gitee . com / wander20250901 / ai _ -[]agent _ diet . git$[]
  []
 
-<1-1.png, id=326, 853.68938pt x 829.59938pt>
+<1-1.png, id=339, 853.68938pt x 829.59938pt>
 File: 1-1.png Graphic file (type png)
 <use 1-1.png>
-Package pdftex.def Info: 1-1.png  used on input line 178.
+Package pdftex.def Info: 1-1.png  used on input line 208.
 (pdftex.def)             Requested size: 291.43593pt x 283.21199pt.
-<1-2.png, id=327, 873.2625pt x 834.11626pt>
+<1-2.png, id=340, 873.2625pt x 834.11626pt>
 File: 1-2.png Graphic file (type png)
 <use 1-2.png>
-Package pdftex.def Info: 1-2.png  used on input line 179.
+Package pdftex.def Info: 1-2.png  used on input line 209.
 (pdftex.def)             Requested size: 296.50557pt x 283.21394pt.
 
 
-[4 <./0-2.png> <./0-3.png> <./5-1.png (PNG copy)>]
-<2-1.png, id=340, 862.72313pt x 811.53188pt>
+[5 <./5-1.png (PNG copy)>]
+<2-1.png, id=349, 862.72313pt x 811.53188pt>
 File: 2-1.png Graphic file (type png)
 <use 2-1.png>
-Package pdftex.def Info: 2-1.png  used on input line 187.
+Package pdftex.def Info: 2-1.png  used on input line 217.
 (pdftex.def)             Requested size: 322.59889pt x 303.4569pt.
-<2-2.png, id=341, 856.70062pt x 819.06pt>
+<2-2.png, id=350, 856.70062pt x 819.06pt>
 File: 2-2.png Graphic file (type png)
 <use 2-2.png>
-Package pdftex.def Info: 2-2.png  used on input line 188.
+Package pdftex.def Info: 2-2.png  used on input line 218.
 (pdftex.def)             Requested size: 317.39258pt x 303.44739pt.
 
 
-[5 <./1-1.png (PNG copy)> <./1-2.png (PNG copy)>]
-<1.png, id=350, 2296.07813pt x 1311.39937pt>
+[6 <./1-1.png (PNG copy)> <./1-2.png (PNG copy)>]
+<1.png, id=359, 2296.07813pt x 1311.39937pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 196.
+Package pdftex.def Info: 1.png  used on input line 226.
 (pdftex.def)             Requested size: 354.1717pt x 202.28429pt.
-<2.png, id=351, 526.21594pt x 537.50812pt>
+<2.png, id=360, 526.21594pt x 537.50812pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 197.
+Package pdftex.def Info: 2.png  used on input line 227.
 (pdftex.def)             Requested size: 198.05313pt x 202.30319pt.
-<3.png, id=352, 522.45187pt x 517.18219pt>
+<3.png, id=361, 522.45187pt x 517.18219pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
-Package pdftex.def Info: 3.png  used on input line 198.
+Package pdftex.def Info: 3.png  used on input line 228.
 (pdftex.def)             Requested size: 204.36127pt x 202.29999pt.
 
 
-[6 <./2-1.png (PNG copy)> <./2-2.png (PNG copy)>]
-<4.png, id=358, 856.70062pt x 826.58812pt>
+[7 <./2-1.png (PNG copy)> <./2-2.png (PNG copy)>]
+<4.png, id=368, 856.70062pt x 826.58812pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
-Package pdftex.def Info: 4.png  used on input line 206.
+Package pdftex.def Info: 4.png  used on input line 236.
 (pdftex.def)             Requested size: 279.56168pt x 269.73526pt.
 
 
-[7 <./1.png (PNG copy)> <./2.png> <./3.png>]
+[8 <./1.png (PNG copy)> <./2.png> <./3.png>]
 
-[8 <./4.png (PNG copy)>] (./Report.aux)
+[9 <./4.png (PNG copy)>] (./Report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
@@ -705,18 +708,21 @@ Package rerunfilecheck Info: File `Report.out' has not changed.
 (rerunfilecheck)             Checksum: 5BCDE45B96CB8361F83AE12D5290B54E;2309.
  ) 
 Here is how much of TeX's memory you used:
- 16734 strings out of 473190
- 302818 string characters out of 5719979
+ 16817 strings out of 473190
+ 304640 string characters out of 5719979
  682240 words of memory out of 5000000
- 39440 multiletter control sequences out of 15000+600000
- 599477 words of font info for 183 fonts, out of 8000000 for 9000
+ 39516 multiletter control sequences out of 15000+600000
+ 600017 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,11n,83p,1273b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Report.pdf (8 pages, 3359326 bytes).
+ 80i,12n,83p,1273b,465s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
+
+pdfTeX warning: pdflatex.exe (file c:/Windows/Fonts/simsun.ttc): subfont unisong20: wrong mapping: character 11 --> 0x200B --> .notdef
+><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Report.pdf (9 pages, 3385341 bytes).
 PDF statistics:
- 818 PDF objects out of 1000 (max. 8388607)
- 565 compressed objects within 6 object streams
- 41 named destinations out of 1000 (max. 500000)
- 550 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 833 PDF objects out of 1000 (max. 8388607)
+ 575 compressed objects within 6 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 558 words of extra memory for PDF output out of 10000 (max. 10000000)
 
