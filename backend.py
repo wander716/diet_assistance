@@ -30,7 +30,8 @@ def chat():
         response = Application.call(
             api_key=api_key,
             app_id=app_id,
-            prompt=prompt
+            prompt=prompt,
+            timeout=15
         )
         
         if response.status_code != HTTPStatus.OK:
